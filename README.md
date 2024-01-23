@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Drew</h1>
 <h3 align="center">I'm a Software Developer and Game Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justindrew101" alt="justindrew101" /></a> </p>
-
 - 🔭 I’m currently working on **A FPS Game**
 
 - 🌱 I’m currently learning **Unity, QT, JavaScript, Blender**
