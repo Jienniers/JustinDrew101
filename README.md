@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Drew</h1>
 <h3 align="center">I'm a Software Developer and Game Developer</h3>
 
-- 🔭 I’m currently working on **A FPS Game**
-
-- 🌱 I’m currently learning **Unity, QT, JavaScript, Blender**
+- 🌱 I’m currently learning **Unity, QT**
 
 - 👯 I’m looking to collaborate on **Different Projects**
 
-- 💬 Ask me about **Python, C#**
+- 💬 Ask me about **Python, C#, Java**
 
 - 📫 How to reach me **codeMaestroy105@outlook.com**
 
