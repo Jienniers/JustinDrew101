@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Drew</h1>
 <h3 align="center">I'm a Software Developer and Game Developer</h3>
 
-- 🌱 I’m currently learning **Unity, QT**
+- 🌱 I’m currently learning **Unity**
 
 - 👯 I’m looking to collaborate on **Different Projects**
 
